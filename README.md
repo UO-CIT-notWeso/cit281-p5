@@ -1,4 +1,4 @@
-## Welcome to my Project 5 page
+# Welcome to my Project 5 page
 
 ## Project 5: Optional Extra Credit
 - I did not submit a project 5
