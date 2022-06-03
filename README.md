@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to my Project 5 page
 
-You can use the [editor on GitHub](https://github.com/notWeso/cit281-p5/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Project 5: Optional Extra Credit
+- I did not submit a project 5
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Overview of what project 5 consisted of:
+- "For this project, you will create a Monster Game program using classes. The game will create monsters with initial life values, and minimum life values for the monster to be alive. Once the game is running, each monster's life will be drained by a random amount, and the game will continue until all of the monsters have died. The game will include a delay before each life drain."
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/notWeso/cit281-p5/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## What I would have learned had I done project 5:
+- Gained experience working with classes, including class constructors and methods
+- Gained experience interpreting existing code to design a new class, including constructor and methods
+- Gained more experience working with code modules
+- Gained experience executing and debugging Node.js code using VSCode, including module breakpoints
+- Gained more experience working with Array map() and forEach() methods
+- Gained experience working with the concept of a gaming loop
+- Gained more experience working with objects and arrays
